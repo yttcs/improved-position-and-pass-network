@@ -1,4 +1,4 @@
-## plotting pass networks with expected threat (xT) of passes per position.
+## Plotting pass networks with expected threat (xT) of passes per position.
 
 ### We do three things in this notebook
 
