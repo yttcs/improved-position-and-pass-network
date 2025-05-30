@@ -1,5 +1,3 @@
-## Plotting pass networks with expected threat (xT) of passes per position.
-
 ### We do three things in this notebook
 
 1. plot pass network based on average player positions when passing.
